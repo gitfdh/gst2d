@@ -1,4 +1,4 @@
-# gost-heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/cidy0106/gost-heroku)
+# gost-heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/gitfdh/gst2d)
 
 GOST version : 2.11+
 
