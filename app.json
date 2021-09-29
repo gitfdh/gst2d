@@ -1,5 +1,5 @@
 {
-  "name": "gost-heroku",
+  "name": "gotu",
   "description": "deploy gost to Heroku.",
   "keywords": ["gost"],
   "env": {
@@ -12,7 +12,7 @@
        "value": "mws"
      }
   },
-  "website": "https://github.com/cidy0106/gost-heroku",
-  "repository": "https://github.com/cidy0106/gost-heroku",
+  "website": "https://github.com/gitfdh/gst2d",
+  "repository": "https://github.com/gitfdh/gst2d",
   "stack": "container"
  }
